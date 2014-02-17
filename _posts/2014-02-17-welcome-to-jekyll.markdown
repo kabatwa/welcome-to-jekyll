@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: audio_post
 title:  "Welcome to Jekyll!"
 date:   2014-02-17 22:22:31
 categories: jekyll update
@@ -20,12 +20,6 @@ print_hi('Tom')
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-What is the title? {{page.title}}
-
-The name of this site is {{site.name}}
-
-My audio file is called {{page.audio_file}}
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
